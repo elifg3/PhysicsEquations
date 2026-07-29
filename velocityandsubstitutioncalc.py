@@ -17,7 +17,7 @@ d=AverageVelocity*deltatime
 
 print(f"The substitution in the {deltatime}th second is {s:.2f}m which is maximum displacement in the whole movement of the object.")
 time.sleep(1)
-print(f"The maximum velocity of the object whole time is {FirstVelocity:} m/s.")
+print(f"The maximum velocity of the object whole time is {FirstVelocity:.2f} m/s.")
 
 
 
